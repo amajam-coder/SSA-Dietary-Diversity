@@ -1,5 +1,5 @@
 # SSA-Dietary-Diversity
-R code Used for the analysis of child dietary diversity, forest cover, and cropland expansion across Sub-Saharan Africa.
+Template R scripts accompanying the manuscript "Climate variability, forest cover, cropland expansion, and child dietary diversity across Sub-Saharan Africa."
 # SSA Dietary Diversity
 
 This repository contains template R scripts illustrating the analytical workflow used in the manuscript:
